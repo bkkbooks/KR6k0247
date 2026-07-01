@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0247/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傳授三壇弘戒法儀
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1127.xml
+    old_id: X60n1127
+hash: sha256:3c2fb3019f1f6dbe5abb85cff8b0f592b1cc83a99daebded5c9dbe2638444137
